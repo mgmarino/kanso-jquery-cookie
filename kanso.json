@@ -1,0 +1,20 @@
+{
+    "name": "jquery-cookie",
+    "version": "1.4.1-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "https://github.com/carhartl/jquery-cookie",
+    "modules": "jquery-cookie.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": null,
+        "jquery": ">=1.10.1-kanso",
+        "attachments": null
+    },
+    "description": "jquery-cookie provides a cookie plugin for jquery"
+}
